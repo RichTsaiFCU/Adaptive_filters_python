@@ -15,13 +15,13 @@ This repository contains a collection of Jupyter notebooks and Python scripts de
 - **Signal_proctools.py**: A Python script containing utilities and functions for signal processing used across the tutorials.
 - **Volterra_lms_filter_tutorial.ipynb**: Shows the application of Volterra series filters with LMS algorithms for nonlinear adaptive filtering.
 
-1. **AI_network_generateIIR.ipynb** - ¥i¯à¬O¥Î©ó¥Í¦¨ IIR Âoªi¾¹ªº AI ºôµ¸½d¨Ò¡C
-2. **Basic_tutorial.ipynb** - °ò¥»±Ğµ{¡C
-3. **FIR_EQ_adaptive_filter.ipynb** - Ãö©ó FIR ¦Û¾AÀ³µ¥¤ÆÂoªi¾¹ªº½d¨Ò¡C
-4. **FIR_lms_filter_tutorial.ipynb** - Ãö©ó¨Ï¥Î³Ì¤p§¡¤è»~®tºâªkªº FIR Âoªi¾¹ªº±Ğµ{¡C
-5. **IIR_lms_filter_tutorial.ipynb** - Ãö©ó¨Ï¥Î³Ì¤p§¡¤è»~®tºâªkªº IIR Âoªi¾¹ªº±Ğµ{¡C
-6. **Signal_proctools.py** - «H¸¹³B²z¤u¨ãªº Python ¸}¥»¡C
-7. **Volterra_lms_filter_tutorial.ipynb** - Ãö©ó¨Ï¥Î Volterra ¨t¦C©M³Ì¤p§¡¤èºâªkªº±Ğµ{¡C
+1. **AI_network_generateIIR.ipynb** - ç”¨æ–¼ç”Ÿæˆ IIR æ¿¾æ³¢å™¨çš„ AI ç¶²çµ¡ç¯„ä¾‹ã€‚
+2. **Basic_tutorial.ipynb** - åŸºæœ¬æ•™ç¨‹ã€‚
+3. **FIR_EQ_adaptive_filter.ipynb** - é—œæ–¼ FIR è‡ªé©æ‡‰ç­‰åŒ–æ¿¾æ³¢å™¨çš„ç¯„ä¾‹ã€‚
+4. **FIR_lms_filter_tutorial.ipynb** - ä½¿ç”¨æœ€å°å‡æ–¹èª¤å·®ç®—æ³•çš„ FIR æ¿¾æ³¢å™¨çš„æ•™ç¨‹ã€‚
+5. **IIR_lms_filter_tutorial.ipynb** - ä½¿ç”¨æœ€å°å‡æ–¹èª¤å·®ç®—æ³•çš„ IIR æ¿¾æ³¢å™¨çš„æ•™ç¨‹ã€‚
+6. **Signal_proctools.py** - ä¿¡è™Ÿè™•ç†å·¥å…·çš„ Python è…³æœ¬ã€‚
+7. **Volterra_lms_filter_tutorial.ipynb** - ä½¿ç”¨ Simplified - Volterra ç³»åˆ—å’Œæœ€å°å‡æ–¹ç®—æ³•çš„æ•™ç¨‹ã€‚
 
 #### Installation
 To use these notebooks and scripts, please ensure you have Jupyter Notebook or JupyterLab installed. You can install them via Anaconda or directly through pip:
