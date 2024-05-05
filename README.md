@@ -18,10 +18,11 @@ This repository contains a collection of Jupyter notebooks and Python scripts de
 1. **AI_network_generateIIR.ipynb** - 用於生成 IIR 濾波器的 AI 網絡範例。
 2. **Basic_tutorial.ipynb** - 基本教程。
 3. **FIR_EQ_adaptive_filter.ipynb** - 關於 FIR 自適應等化濾波器的範例。
-4. **FIR_lms_filter_tutorial.ipynb** - 使用最小均方誤差算法的 FIR 濾波器的教程。
-5. **IIR_lms_filter_tutorial.ipynb** - 使用最小均方誤差算法的 IIR 濾波器的教程。
+4. **FIR_lms_filter_tutorial.ipynb** - 使用最小均方誤差算法的 FIR 濾波器。
+5. **IIR_lms_filter_tutorial.ipynb** - 使用最小均方誤差算法的 IIR 濾波器。
 6. **Signal_proctools.py** - 信號處理工具的 Python 腳本。
-7. **Volterra_lms_filter_tutorial.ipynb** - 使用 Simplified - Volterra 系列和最小均方算法的教程。
+7. **Volterra_lms_filter_tutorial.ipynb** - 使用 Simplified - Volterra 系列和最小均方算法 （參考）。
+8. **NonlinearPedal.ipynb - 效果器訊號合成-簡單範例
 
 #### Installation
 To use these notebooks and scripts, please ensure you have Jupyter Notebook or JupyterLab installed. You can install them via Anaconda or directly through pip:
